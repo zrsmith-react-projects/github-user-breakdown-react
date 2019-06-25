@@ -1,6 +1,13 @@
 @import url("https://fonts.googleapis.com/css?family=B612+Mono&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Permanent+Marker&display=swap");
+
 $mainSilver: silver;
+$mainBlack: #171d22;
+$mainWhite: #eee;
+$mainGray: #d5d5d5;
 $b612Font: "B612 Mono", monospace;
+$markerFont: "Permanent Marker", cursive;
+$mainTransition: all 0.3s liner;
 
 * {
   font-size: 62.5%;

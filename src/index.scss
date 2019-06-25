@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css?family=B612+Mono&display=swap");
+$mainSilver: silver;
+$b612Font: "B612 Mono", monospace;
+
+* {
+  font-size: 62.5%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: $mainSilver;
+  font-family: $b612Font;
+  h1 {
+    font-size: 3rem;
+  }
+  h2 {
+    font-size: 2.5rem;
+  }
+}
